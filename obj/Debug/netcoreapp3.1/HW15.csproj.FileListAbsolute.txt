@@ -1,0 +1,13 @@
+D:\programming\Projects AlifC#\HW15\bin\Debug\netcoreapp3.1\HW15.exe
+D:\programming\Projects AlifC#\HW15\bin\Debug\netcoreapp3.1\HW15.deps.json
+D:\programming\Projects AlifC#\HW15\bin\Debug\netcoreapp3.1\HW15.runtimeconfig.json
+D:\programming\Projects AlifC#\HW15\bin\Debug\netcoreapp3.1\HW15.runtimeconfig.dev.json
+D:\programming\Projects AlifC#\HW15\bin\Debug\netcoreapp3.1\HW15.dll
+D:\programming\Projects AlifC#\HW15\bin\Debug\netcoreapp3.1\HW15.pdb
+D:\programming\Projects AlifC#\HW15\obj\Debug\netcoreapp3.1\HW15.csprojAssemblyReference.cache
+D:\programming\Projects AlifC#\HW15\obj\Debug\netcoreapp3.1\HW15.csproj.CoreCompileInputs.cache
+D:\programming\Projects AlifC#\HW15\obj\Debug\netcoreapp3.1\HW15.AssemblyInfoInputs.cache
+D:\programming\Projects AlifC#\HW15\obj\Debug\netcoreapp3.1\HW15.AssemblyInfo.cs
+D:\programming\Projects AlifC#\HW15\obj\Debug\netcoreapp3.1\HW15.dll
+D:\programming\Projects AlifC#\HW15\obj\Debug\netcoreapp3.1\HW15.pdb
+D:\programming\Projects AlifC#\HW15\obj\Debug\netcoreapp3.1\HW15.genruntimeconfig.cache
